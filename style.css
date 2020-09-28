@@ -1,0 +1,19 @@
+.style1{
+    font-size: 3rem;
+    color: green;
+}
+
+.style2{
+    font-size: 3rem;
+    color: green;
+    font-style: italic;
+}
+
+.div-style{
+    /* display: none; */
+    height: 250px;
+    width: 800px;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: lightcoral;
+}
